@@ -1,0 +1,6 @@
+@StudyMateIA_HostAddress = http://localhost:5185
+
+GET {{StudyMateIA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
